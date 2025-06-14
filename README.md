@@ -10,6 +10,6 @@
 
 ## Create_macro_bloxfruits
 
-## Fluentplus-DeadRails
+## [Fluentplus-DeadRails](https://github.com/Lucasggk/Fluentplus-DeadRails)
 
 ## Fluentplus-LegendsSpeed
